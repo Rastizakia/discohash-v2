@@ -49,5 +49,5 @@ You can contact me by sending my Pwnagotchi some PwnMail at:
 
 `fe15a54c000428cd8b88e4b689552379bbfb5b838caf52412690749cd2d105f0`
 Or you can message me on Discord:
-rashtiz
+`rashtiz`
 Please give info on whether this actually works lol, this is my first project intended for use of other people :3.
